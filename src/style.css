@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Di file CSS terpisah atau di style tag */
+.bg-localcart-500 {
+  background-color: #f56565 !important;
+}
+.text-localcart-500 {
+  color: #f56565 !important;
+}
